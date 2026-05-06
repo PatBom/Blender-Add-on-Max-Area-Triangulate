@@ -3,7 +3,7 @@ bl_info = {
     "blender": (4, 0, 0),
     "category": "Mesh",
     "description": "Fill a selected loop using Max Area Triangulation method",
-    "author": "Lilum",
+    "author": "PatBom",
     "version": (0, 1, 2),
     "location": "View 3D > Sidebar > Edit Tab > Max Area Triangulation (panel)",
 }
